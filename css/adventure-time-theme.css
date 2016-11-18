@@ -1,0 +1,61 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+.uno{
+	
+	background-color: #9634a3;
+	height: 40px;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 1em;
+	color:#f7f4f7;
+}
+.dos{
+
+background-color: #9634a3;
+	height: 40px;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 1em;
+	color:#f7f4f7;
+
+}
+
+b{ 
+	color:black;
+	position: relative;
+	top: 13px; 
+}
+
+
+.navbar-form{
+    position: relative;
+    left: 900px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

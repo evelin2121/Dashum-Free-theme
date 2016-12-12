@@ -24,7 +24,7 @@
 }
 .dos{
 
-background-color: #9634a3;
+    background-color: #9634a3;
 	height: 40px;
 	text-align: center;
 	padding-top: 10px;
@@ -46,6 +46,24 @@ b{
 
 }
 
+.icon{
+	position: relative;
+	left: 50px;
+}
+
+.mueve{
+	position: relative;
+	left: 50px;
+	bottom: 30px;
+}
+
+.blanco{
+	 background-color: #fcfcfc;
+}
+
+.plomp{
+	background-color: #dbd6ce;
+}
 
 
 
